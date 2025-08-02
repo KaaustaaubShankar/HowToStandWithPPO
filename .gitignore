@@ -1,3 +1,5 @@
 /venv/
 ppo_humanoid_upright.zip
 /ppo_humanoid_logs
+/sac_humanoid_logs
+.DS_Store
